@@ -1,0 +1,1 @@
+/* Quick for offa https://codepen.io/t_afif/pen/GRPazEp */
